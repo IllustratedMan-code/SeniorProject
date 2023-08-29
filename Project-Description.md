@@ -6,6 +6,7 @@
 
 - David Lewis (lewis3d7@mail.uc.edu)
 - John Whiting (whitinjp@mail.uc.edu)
+- add yourself (last person delete this)
 
 # Project Topic
 
