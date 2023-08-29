@@ -5,7 +5,7 @@
 # Team Members
 
 - David Lewis (lewis3d7@mail.uc.edu)
-- add yourself (last person delete this)
+- John Whiting (whitinjp@mail.uc.edu)
 
 # Project Topic
 
