@@ -2,7 +2,7 @@
 
 ## Team Name
 
-"Mo code Mo problems" (I'm not married to it)
+Quaternary
 
 ## Team Members
 
