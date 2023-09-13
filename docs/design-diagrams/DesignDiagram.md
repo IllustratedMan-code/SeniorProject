@@ -22,6 +22,6 @@ desire to play the game off-line.
 # Design Level 3
 
 ![](./S3.png)
-This diagram shows a little of the games structure. Sequential levels allow for iterative
+This diagram shows a little of the game's structure. Sequential levels allow for iterative
 learning, helpful for a classroom environment, as well as an endless mode that facilitates practice.
 Each level can teach a new standalone concept, while the endless mode can reinforce those concepts.
