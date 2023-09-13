@@ -1,0 +1,9 @@
+@startuml
+actor User
+usecase Game
+usecase Knowledge
+
+User -> Game : Plays game
+Game -> Knowledge : learns genetics
+
+@enduml
