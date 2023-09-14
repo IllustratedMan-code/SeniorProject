@@ -1,3 +1,4 @@
 - As a highschool biology teacher, I want an education game to teach genetics, as I am always looking for ways to keep my students engaged.
 - As a biology student, I want a game to help me study genetics, because I have a hard time focusing on traditional educational materials.
 - As a gamer, I want a unique game to play, as I am always searching for new game concepts.
+- As a highschool biology teacher, I want a game that tracks student progress, as I want to evaluate student learning and effort.
