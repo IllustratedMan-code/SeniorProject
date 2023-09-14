@@ -1,0 +1,35 @@
+@startuml
+left to right direction
+actor User as u
+Package store{
+  usecase "Mobile App Store" as appstore
+  usecase "Destop Game Store (Steam)" as steam
+  usecase Website as web
+}
+rectangle "Genetics Game" as game
+
+u --> appstore  
+u --> web  
+u --> steam : visits
+appstore --> game
+web --> game
+steam --> game : downloads
+game --> game : plays
+
+(School) as s
+(Entertainment) as e
+
+game -> e 
+game --> s : Part of Curriculum?
+
+(Genetics Knowledge) as know
+
+e --> know : Play/Learns for Fun
+s -> know : Play/Learns for assignments
+
+(Beyond) as b
+know -> b
+
+
+@enduml
+

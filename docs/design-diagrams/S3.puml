@@ -1,0 +1,61 @@
+@startuml
+left to right direction
+actor User as u
+
+(School) as s
+(Entertainment) as e
+
+(Genetics Knowledge) as know
+Package Store{
+  usecase "Mobile App Store" as appstore
+  usecase "Destop Game Store (Steam)" as steam
+  usecase Website as web
+}
+node "Genetics Game" as game{
+  portin " " as pin
+  portout "  " as pout
+  Package Levels{
+    [Level 1] as l1
+    [Level 2] as l2
+    [Level 3] as l3
+    [Level ...] as l.
+    l1 -> l2
+    l2 -> l3
+    l3 -> l.
+  }
+  Package Subjects{
+    [Traits]
+    [Inheiritance]
+    [Alleles]
+    l1 --> Traits
+    l2 --> Inheiritance
+    l3 --> Alleles
+  }
+  Package Endless{
+    [Endless level] as el
+  }
+  el --> el : repeat
+    
+}
+
+u --> appstore  
+u --> web  
+u --> steam : visits
+appstore --> pin
+web --> pin
+steam --> pin : downloads
+
+
+pout -> e 
+pout -> s : Part of Curriculum?
+
+
+e --> know : Play/Learns for Fun
+s --> know : Play/Learns for assignments
+
+(Beyond) as b
+know --> b
+
+
+@enduml
+
