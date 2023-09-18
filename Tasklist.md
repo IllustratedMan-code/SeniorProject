@@ -1,0 +1,22 @@
+# Project Tasklist
+
+- [ ] Research biology curriculum, lock in concepts | @IllustratedMan-code
+- [ ] Design main game-loop (with help) | @IllustratedMan-code
+- [ ] Maintain project organization (Github strategy) | @IllustratedMan-code
+- [ ] Specify Weekly Tasks - David Lewis | @IllustratedMan-code
+- [ ] Takes minutes - David Lewis | @IllustratedMan-code
+- [ ] Develop UI for game | @adediu25
+- [ ] Develop soundtrack/sound design for game | @adediu25
+- [ ] Program scene scripts in Godot Engine | @adediu25
+- [ ] Research Godot Engine implementations for our ideas | @adediu25
+- [ ] Playtest completed game levels/features | @adediu25
+- [ ] Maintain Code Standards | @john-whiting
+- [ ] Review Pull Requests | @john-whiting
+- [ ] Setup Automation and CI/CD | @john-whiting
+- [ ] Implement Game Trait System (with assistance) | @john-whiting
+- [ ] Implement Asset Animations | @john-whiting
+- [ ] Enforce documentation standards | @ConnorMcKinney99
+- [ ] Establish documentation standards | @ConnorMcKinney99
+- [ ] Research asset library | @ConnorMcKinney99
+- [ ] Prototype mini-games | @ConnorMcKinney99
+- [ ] Buy drawing tablet | @ConnorMcKinney99
