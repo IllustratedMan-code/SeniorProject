@@ -1,0 +1,107 @@
+#+author: David Lewis, Connor Mckinney, Alex Deidu, John Whiting
+#+title: Project Milestones
+* Time Left (~28 weeks)
+- 9 weeks left in semester
+- ~4 weeks break
+- 15 weeks second semester
+
+* High level milestones/objectives
+** Objective for this semester (semester 1)
+-  100% lockdown on concept
+- Workable draft for (at least) several aspects of the game
+- Contact High-school/college teachers to play-test game
+- Identification of "stretch-goals" that are not pertinent to finished game, but can be added if time allows
+
+** Objective for break
+- Ideally nothing
+- This time can be used to make up for time lost this semester
+
+** Objective for next semester (semester 2)
+- Finish game to alpha state (ideally within first 4-6 weeks)
+- Polish game (up till the deadline)
+    - Respond to play-test feedback if able
+    - Work on stretch goals
+- Publish game in some manner (steam, app store, website)
+- Plan out any future additions beyond senior project if everything gets done on time
+
+* Semester 1 Tasks
+- [ ] Develop soundtrack/sound design for game | @adediu25
+- [ ] Develop UI for game | @adediu25
+- [ ] Research biology curriculum, lock in concepts | @IllustratedMan-code
+- [ ] Design main game-loop (with help) | @IllustratedMan-code
+- [ ] Program scene scripts in Godot Engine | @adediu25
+- [ ] Research Godot Engine implementations for our ideas | @adediu25
+- [ ] Setup Automation and CI/CD | @john-whiting
+- [ ] Implement Game Trait System (with assistance) | @john-whiting
+- [ ] Establish documentation standards | @ConnorMcKinney99
+- [ ] Research asset library | @ConnorMcKinney99
+- [x] Buy drawing tablet | @ConnorMcKinney99
+- [ ] Prototype mini-games | @ConnorMcKinney99
+- [ ] Asset Creation (art style) | Needs Person
+- [ ] Highschool outreach | All
+
+* Semester 2 Tasks
+- [ ] Playtest completed game levels/features | @adediu25
+- [ ] Implement Asset Animations | @john-whiting
+- [ ] Highschool outreach/testing | All
+- [ ] Export/Platform distribution | @john-whiting
+
+* Tables
+| Task                                                | Person assigned      | Date Started | Date Finished |
+|-----------------------------------------------------+----------------------+--------------+---------------|
+| Develop soundtrack/sound design for game            | @adediu25            | 10/29/2023   | 12/9/2023     |
+| Develop UI for game                                 | @adediu25            | 10/29/2023   | 11/4/2023     |
+| Research biology curriculum, lock in concepts       | @IllustratedMan-code | 10/29/2023   | 10/7/2023     |
+| Design main game-loop (with help)                   | @IllustratedMan-code | 10/29/2023   | 11/4/2023     |
+| Program scene scripts in Godot Engine               | @adediu25            | 10/29/2023   | 12/9/2023     |
+| Research Godot Engine implementations for our ideas | @adediu25            | 10/29/2023   | 10/7/2023     |
+| Setup Automation and CI/CD                          | @john-whiting        | 10/29/2023   | 11/4/2023     |
+| Implement Game Trait System (with assistance)       | @john-whiting        | 10/29/2023   | 12/9/2023     |
+| Establish documentation standards                   | @ConnorMcKinney99    | 10/29/2023   | 10/7/2023     |
+| Research asset library                              | @ConnorMcKinney99    | 10/29/2023   | 10/7/2023     |
+| Buy drawing tablet                                  | @ConnorMcKinney99    | 10/29/2023   | Done          |
+| Highschool outreach                                 | All                  | 10/29/2023   | 12/9/2023     |
+| Prototype mini-games                                | @ConnorMcKinney99    | 10/29/2023   | 12/9/2023     |
+|-----------------------------------------------------+----------------------+--------------+---------------|
+| Asset Creation (art style)                          | Needs Person         | 10/29/2023   | 3/1/2024      |
+| Playtest completed game levels/features             | @adediu25            | 1/8/2024     | 3/1/2024      |
+| Implement Asset Animations                          | @john-whiting        | 1/8/2024     | 2/1/2024      |
+| Highschool outreach/testing                         | All                  | 1/8/2024     | 3/1/2024      |
+| Export/Platform distribution                        | @john-whiting        | 1/8/2024     | 3/1/2024      |
+|-----------------------------------------------------+----------------------+--------------+---------------|
+| Takes minutes - David Lewis                         | @IllustratedMan-code | 10/29/2023   | Ongoing       |
+| Specify Weekly Tasks - David Lewis                  | @IllustratedMan-code | 10/29/2023   | Ongoing       |
+| Maintain project organization (Github strategy)     | @IllustratedMan-code | 10/29/2023   | Ongoing       |
+| Maintain Code Standards                             | @john-whiting        | 10/29/2023   | Ongoing       |
+| Review Pull Requests                                | @john-whiting        | 10/29/2023   | Ongoing       |
+| Enforce documentation standards                     | @ConnorMcKinney99    | 10/29/2023   | Ongoing       |
+
+
+| Task                                                | Person assigned      | David Effort | Alex Effort | John Effort | Connor Effort |
+|-----------------------------------------------------+----------------------+--------------+-------------+-------------+---------------|
+| Develop soundtrack/sound design for game            | @adediu25            |              |        100% |             |               |
+| Develop UI for game                                 | @adediu25            |          10% |         70% |         10% |           10% |
+| Research biology curriculum, lock in concepts       | @IllustratedMan-code |         100% |             |             |               |
+| Design main game-loop (with help)                   | @IllustratedMan-code |          40% |         20% |         20% |           20% |
+| Program scene scripts in Godot Engine               | @adediu25            |          10% |         70% |         10% |           10% |
+| Research Godot Engine implementations for our ideas | @adediu25            |              |        100% |             |               |
+| Setup Automation and CI/CD                          | @john-whiting        |              |             |        100% |               |
+| Implement Game Trait System (with assistance)       | @john-whiting        |          20% |         10% |         40% |           30% |
+| Establish documentation standards                   | @ConnorMcKinney99    |              |             |             |          100% |
+| Research asset library                              | @ConnorMcKinney99    |              |             |             |          100% |
+| Buy drawing tablet                                  | @ConnorMcKinney99    |              |             |             |          100% |
+| Highschool outreach                                 | All                  |          25% |         25% |         25% |           25% |
+|-----------------------------------------------------+----------------------+--------------+-------------+-------------+---------------|
+| Prototype mini-games                                | @ConnorMcKinney99    |          20% |         20% |         20% |           40% |
+| Asset Creation (art style)                          | All                  |          25% |         25% |         25% |           25% |
+| Playtest completed game levels/features             | @adediu25            |          10% |         70% |         10% |           10% |
+| Implement Asset Animations                          | @john-whiting        |          10% |         10% |         70% |           10% |
+| Highschool outreach/testing                         | ALL                  |          25% |         25% |         25% |           25% |
+| Export/Platform distribution                        | @john-whiting        |              |             |        100% |               |
+|-----------------------------------------------------+----------------------+--------------+-------------+-------------+---------------|
+| Takes minutes - David Lewis                         | @IllustratedMan-code |          70% |         10% |         10% |           10% |
+| Specify Weekly Tasks - David Lewis                  | @IllustratedMan-code |         100% |             |             |               |
+| Maintain project organization (Github strategy)     | @IllustratedMan-code |         100% |             |             |               |
+| Maintain Code Standards                             | @john-whiting        |              |             |        100% |               |
+| Review Pull Requests                                | @john-whiting        |          10% |         10% |         70% |           10% |
+| Enforce documentation standards                     | @ConnorMcKinney99    |              |             |             | 100%          |
