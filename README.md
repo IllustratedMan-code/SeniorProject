@@ -73,7 +73,7 @@ To that end, this project will include international language features, a mouse-
 
 ## Individual Assessments
 
-- [David Lewis]()
+- [David Lewis](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/david-lewis-capstone-assessment.md)
 - [Alex Dediu](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/dediu_capstone_assessment.md)
 - [John Whiting](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/john-whiting.md)
 - [Connor McKinney](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/ConnorMcKinneyCapstone.md)
