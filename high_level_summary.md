@@ -48,15 +48,18 @@ The enemies are also based off of real organisms!
 #### Bacteria
 A generic bacteria.
 
-![image](https://github.com/quaternary-game/class-work/assets/60514384/5cecb04f-b21b-4c0f-8b0d-130670bd2bb6)
+![ezgif-2-f92e1d13cd (1)](https://github.com/quaternary-game/class-work/assets/60514384/2261427e-95c7-496a-8296-b51da9e49ef7)
+
 #### Bacteriophage
 A virus that infects bacteria.
 
-![image](https://github.com/quaternary-game/class-work/assets/60514384/5599e48b-4470-4b21-8e2d-2d5918ba461f)
+![ezgif-4-c455f0e1b9 (1)](https://github.com/quaternary-game/class-work/assets/60514384/f7f5a437-a8f1-4b0a-8880-a8c31d5fea53)
+
 #### Spider (Patu Digua)
 [A very small spider](https://en.wikipedia.org/wiki/Patu_digua)
 
-![image](https://github.com/quaternary-game/class-work/assets/60514384/35a623e2-1af3-455c-8996-c4cc3dcf09ba)
+![ezgif-1-64d700638a (1)](https://github.com/quaternary-game/class-work/assets/60514384/76e976a2-4dc2-452d-be30-56d2cdc19325)
+
 
 ### Trait system
 John is actively involved as the lead developer of the trait system. It will control the activity of both the player characters and the enemies in the main game. Each organism has a list of traits that effect its behaviors.
@@ -66,3 +69,6 @@ Eyes for example would enable the organism to see its surroundings. More detail 
 The trait system may model many behavior interactions simultaniously, making performance a concern not present in the minigames. 
 John is currently investigating the feasibility of web export and the godot extension system. The godot extension system has higher performance,
 but is written in C++, making development time longer and more complicated. 
+
+The web export is performant enough for the minigames, but may not be for the main game. For this reason, the team is also investigating the possibility of a 
+"demo" website that hosts minigames and smaller levels of the main game for advertising and education purposes.
