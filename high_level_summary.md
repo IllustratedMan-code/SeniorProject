@@ -26,7 +26,7 @@ Alex, David, and Connor were all put in charge of a separate minigame. John was 
 ### Punnett square minigame
 Alex completed this one. A player has to fill in the punnett square before the time runs out! 
 
-INSERT VIDEO HERE
+https://github.com/quaternary-game/class-work/assets/71360172/5010cd4c-20da-40e6-b044-ff522e55e56b
 
 ### Build the codons minigame
 This minigame is very similar to the Godot tutorial we all completed. This minigame was completed by Connor.
