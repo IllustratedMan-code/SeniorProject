@@ -1,5 +1,5 @@
 # Introduction
-This document creates a narritive of what has been done on the project thus far. This narritive structure is much more flexible than the assignments,
+This document creates a narritive of what has been done on the project thus far. This narrative structure is much more flexible than the assignments,
 allowing us to convey important details of the development process not covered by the assignments.
 # Semester 1 Summary
 ## Repo setup
@@ -7,7 +7,7 @@ Early on, we decided to heavily make use of the git version control system for t
 We split the project into two repos, one for the class [assignments](https://github.com/quaternary-game/class-work), 
 the other for the actual [project](https://github.com/quaternary-game/quaternary). This was decided to avoid confusion and facilitate good development practices.
 
-We also decided to create a [style guide](https://github.com/quaternary-game/quaternary/blob/main/CONTRIBUTING.md) to enforce guidelines contributions to the project.
+We also decided to create a [style guide](https://github.com/quaternary-game/quaternary/blob/main/CONTRIBUTING.md) to enforce guidelines on contributions to the project.
 This style guide has made it much easier to maintain repo readability, while also opening the project up for outside contributions in the future.
 ## Investigating tools
 We spent a fair amount of time before the project experimenting and aquainting ourselves with the chosen toolset. 
@@ -66,8 +66,8 @@ John is actively involved as the lead developer of the trait system. It will con
 Eyes for example would enable the organism to see its surroundings. More detail is given in the [trait brainstorm](https://github.com/quaternary-game/quaternary/issues/3).
 
 #### The problem of performance
-The trait system may model many behavior interactions simultaniously, making performance a concern not present in the minigames. 
-John is currently investigating the feasibility of web export and the godot extension system. The godot extension system has higher performance,
+The trait system may model many behavior interactions simultaneously, making performance a concern not present in the minigames. 
+John is currently investigating the feasibility of web export and the Godot extension system. The Godot extension system has higher performance,
 but is written in C++, making development time longer and more complicated. 
 
 The web export is performant enough for the minigames, but may not be for the main game. For this reason, the team is also investigating the possibility of a 
