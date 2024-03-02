@@ -32,7 +32,7 @@ https://github.com/quaternary-game/class-work/assets/71360172/5010cd4c-20da-40e6
 This minigame is very similar to the Godot tutorial we all completed. This minigame was completed by Connor.
 A player has to catch floating nucleotides that correspond to a piece of tRNA.
 
-INSERT VIDEO HERE
+https://github.com/quaternary-game/class-work/assets/56883585/83b711e2-91cc-4215-95b7-9c61c5013293
 
 ### Mutation minigame
 This minigame was completed by David. A player has to mutate a strand of DNA to correspond to another one.
