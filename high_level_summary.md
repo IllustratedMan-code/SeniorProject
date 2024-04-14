@@ -72,3 +72,16 @@ but is written in C++, making development time longer and more complicated.
 
 The web export is performant enough for the minigames, but may not be for the main game. For this reason, the team is also investigating the possibility of a 
 "demo" website that hosts minigames and smaller levels of the main game for advertising and education purposes.
+
+# Semester 2 Summary
+In the second semester, we focused on polishing the prototypes we already had. This included stability fixes and visual updates.
+
+## Creating the theme
+We realized we really needed a cohesive color palette to make the game look good. We are not graphic designers, so we decided to use an already existing color palette that we liked called the [nord theme](https://www.nordtheme.com/). This really gave the project a cohesive look.
+
+![Screenshot 2024-04-14 114330](https://github.com/quaternary-game/class-work/assets/60514384/1fddc6af-2e23-4859-a5ed-508231559607)
+
+## The Main Game
+The main game got several performance, visual, and design updates during this semester to make it somewhat playable. We are still not satisfied with the final result (we think it is not intuitive or scalable enough), but we think it looks and performs well in its current state.
+
+We finished the trait system and created many traits and behaviors including territory, movement, vision, carnivore, and photoautotroph. These traits form the basis for the gameplay loop of the main game. It was at this point that we integrated many of the art assets created during semester one to give the game visual interest. Particulary, the spider and bacteria assets became central to the main game.
