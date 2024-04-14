@@ -4,9 +4,17 @@
 - [Team Information](#team-information)
 	- [Team Members](#Team-Members)
 	- [Project Advisor](#Project-Advisor)
-- [Project Description](#Project-Description)
+
+1. [Project Description](#Project-Description)
 	- [Project Topic](#Project-Topic)
 	- [Project Abstract](#Project-Abstract)
+2. [User Interface Specification](#User-Interface-Specification)
+3. [Test Plan and Results](#Test-Plan-and-Results)
+4. [User Manual](#User-Manual)
+5. [Spring Final PPT Presentation](#Spring-Final-PPT-Presentation)
+6. [Final Expo Poster](#Final-Expo-Poster)
+7. [Assessments](#Assessments)
+8. [Summary of Hours and Justification](#Summary-of-Hours)
 - [User Stories and Design Diagrams](#User-Stories-and-Design-Diagrams)
 	- [User Stories](#User-Stories)
 	- [Design Diagrams and Descriptions](#Design-Diagrams-and-Descriptions)
@@ -15,9 +23,8 @@
 	- [Milestone Timeline and Effort Matrix](#Milestone-Timeline-and-Effort-Matrix)
 - [Project Constraints](#Project-Constraints)
 - [Project Slideshow](#Project-Slideshow)
-- [Individual Assessments](#Individual-Assessments)
+
 - [Professional Biographies](#Professional-Biographies)
-- [Budget](#budget)
 - [Appendix](#appendix)
 	- [Repository Link](#repository-link)
 	- [Hours](#hours)
@@ -49,6 +56,35 @@ This project is an educational video game about genetics. Genetics is a broad to
 A high school biology class covers genetics concepts that include traits, alleles, genes, inheritance, and evolution. To ensure that this project can be used by the vast majority of its target audience, accessibility is a major constraint. ​
 
 To that end, this project will include international language features, a mouse-focused user interface, and will take into account color-blind users.
+## User Interface Specification
+
+## Test Plan and Results
+
+## User Manual
+As this is a video game, much of the "user guide" is self contained within the videogame itself, though we also wrote this wiki page. 
+
+[User Guide link](https://github.com/quaternary-game/quaternary/wiki/User-Guide)
+
+
+## Spring Final PPT Presentation
+We did not change the presentation much, as we built in an interactive tutorial system into our game as well as utilized our poster for the expo presentation.
+[Project Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/whitinjp_mail_uc_edu/EYD4aq-ryBdLucVvgwqN6l0Bnfz-2dz5rGX0PtbUKncdeA?e=HfdcOL)
+
+## Final Expo Poster
+
+## Assessments
+
+- [David Lewis Semester 1](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/david-lewis-capstone-assessment.md)
+- [David Lewis Semester 2](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/Self-Assessment-David-Lewis-semester-2.pdf)
+- [Alex Dediu](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/dediu_capstone_assessment.md)
+- [John Whiting](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/john-whiting.md)
+- [Connor McKinney](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/ConnorMcKinneyCapstone.md)
+
+## Summary of Hours
+[Summary of Hours Link](https://github.com/quaternary-game/class-work/discussions/11)
+
+## Summary of Expenses
+There have not been any expenses for this project, and we do not plan to have any in the future. All the software that we are utilizing is free to use. The only potential expenses for this project are related to distribution.
 
 ## User Stories and Design Diagrams
 
@@ -71,12 +107,6 @@ To that end, this project will include international language features, a mouse-
 
 ## [Project Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/whitinjp_mail_uc_edu/EYD4aq-ryBdLucVvgwqN6l0Bnfz-2dz5rGX0PtbUKncdeA?e=HfdcOL)
 
-## Individual Assessments
-
-- [David Lewis](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/david-lewis-capstone-assessment.md)
-- [Alex Dediu](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/dediu_capstone_assessment.md)
-- [John Whiting](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/john-whiting.md)
-- [Connor McKinney](https://github.com/quaternary-game/class-work/blob/main/homework-essays/individual-capstone-assessments/ConnorMcKinneyCapstone.md)
 
 ## Professional Biographies
 
@@ -85,9 +115,7 @@ To that end, this project will include international language features, a mouse-
 - [John Whiting](https://github.com/quaternary-game/class-work/blob/main/contributor-biographies/john-whiting.md)
 - [Connor McKinney](https://github.com/quaternary-game/class-work/blob/main/contributor-biographies/mckinncr_professionalBio.md)
 
-## Budget
 
-There have not been any expenses for this project, and we do not plan to have any in the future. All the software that we are utilizing is free to use.
 
 ## Appendix
 
