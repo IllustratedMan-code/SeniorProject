@@ -11,10 +11,11 @@
 2. [User Interface Specification](#User-Interface-Specification)
 3. [Test Plan and Results](#Test-Plan-and-Results)
 4. [User Manual](#User-Manual)
-5. [Spring Final PPT Presentation](#Spring-Final-PPT-Presentation)
-6. [Final Expo Poster](#Final-Expo-Poster)
-7. [Assessments](#Assessments)
-8. [Summary of Hours and Justification](#Summary-of-Hours)
+	- [FAQ](#User-Manual-FAQ)
+6. [Spring Final PPT Presentation](#Spring-Final-PPT-Presentation)
+7. [Final Expo Poster](#Final-Expo-Poster)
+8. [Assessments](#Assessments)
+9. [Summary of Hours and Justification](#Summary-of-Hours)
 - [User Stories and Design Diagrams](#User-Stories-and-Design-Diagrams)
 	- [User Stories](#User-Stories)
 	- [Design Diagrams and Descriptions](#Design-Diagrams-and-Descriptions)
@@ -68,6 +69,11 @@ It should be noted that we also have an automatic build system that checks statu
 As this is a video game, much of the "user guide" is self contained within the videogame itself, though we also wrote this wiki page. 
 
 [User Guide link](https://github.com/quaternary-game/quaternary/wiki/User-Guide)
+
+### User Manual FAQ
+Answers to common questions can be found in the FAQ section of the User Guide.
+
+[User Guide FAQ link](https://github.com/quaternary-game/quaternary/wiki/User-Guide#faq)
 
 
 ## Spring Final PPT Presentation
