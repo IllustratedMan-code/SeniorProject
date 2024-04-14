@@ -47,7 +47,7 @@ Dr. William Hawkins III (hawkinwh@ucmail.uc.edu)
 
 ### Project Topic
 
-Educational video game for genetics
+Educational video game for genetics.
 
 ### Project Abstract
 
@@ -59,6 +59,9 @@ To that end, this project will include international language features, a mouse-
 ## User Interface Specification
 
 ## Test Plan and Results
+[Test Plan Issue Link](https://github.com/quaternary-game/class-work/issues/16)
+
+It should be noted that we also have an automatic build system that checks status of pull requests, [see here](https://github.com/quaternary-game/quaternary/actions)
 
 ## User Manual
 As this is a video game, much of the "user guide" is self contained within the videogame itself, though we also wrote this wiki page. 
@@ -71,6 +74,7 @@ We did not change the presentation much, as we built in an interactive tutorial 
 [Project Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/whitinjp_mail_uc_edu/EYD4aq-ryBdLucVvgwqN6l0Bnfz-2dz5rGX0PtbUKncdeA?e=HfdcOL)
 
 ## Final Expo Poster
+[Poster LInk](https://github.com/quaternary-game/class-work/blob/main/QuaternaryPoster.pdf)
 
 ## Assessments
 
@@ -82,6 +86,8 @@ We did not change the presentation much, as we built in an interactive tutorial 
 
 ## Summary of Hours
 [Summary of Hours Link](https://github.com/quaternary-game/class-work/discussions/11)
+
+Also see [appendix](#Appendix) links.
 
 ## Summary of Expenses
 There have not been any expenses for this project, and we do not plan to have any in the future. All the software that we are utilizing is free to use. The only potential expenses for this project are related to distribution.
@@ -120,6 +126,8 @@ There have not been any expenses for this project, and we do not plan to have an
 ## Appendix
 
 ### [Repository Link](https://github.com/quaternary-game/quaternary)
+
+### [List of Pull Requests](https://github.com/quaternary-game/quaternary/pulls?q=is%3Apr+is%3Aclosed)
 
 ### [Hours](https://github.com/quaternary-game/class-work/discussions/11)
 
