@@ -57,6 +57,7 @@ A high school biology class covers genetics concepts that include traits, allele
 
 To that end, this project will include international language features, a mouse-focused user interface, and will take into account color-blind users.
 ## User Interface Specification
+Accessibility was a main focus for the UI, we wanted non-gamers to be able to quickly understand how to play the game. To that end, most of our games are drag and drop, or relate to the mouse in some way. There is no keyboard movment to avoid confusion. You can read more about our design decisions in the [Project Constraints](https://github.com/quaternary-game/quaternary/issues?q=is%3Aissue). Also, feel free to read the high level summary for more details about the visual style.
 
 ## Test Plan and Results
 [Test Plan Issue Link](https://github.com/quaternary-game/class-work/issues/16)
